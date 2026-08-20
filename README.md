@@ -150,9 +150,9 @@ For each problem, I try to follow this process:
 
 ## 🔗 Profiles
 
-* **Codeforces:** Add your Codeforces profile link here
-* **GitHub:** Add your GitHub profile link here
-* **LinkedIn:** Add your LinkedIn profile link here
+* **Codeforces:** https://codeforces.com/profile/AbiramiKanthasamy
+* **GitHub:** https://github.com/Abiramik-2004
+* **LinkedIn:** https://www.linkedin.com/in/abirami-kanthasamy/
 
 ---
 
@@ -161,5 +161,7 @@ For each problem, I try to follow this process:
 > Every problem solved is one step closer to becoming a better problem solver.
 
 This repository represents my **competitive programming journey** — one problem, one mistake, and one improvement at a time.
+<img width="1517" height="790" alt="image" src="https://github.com/user-attachments/assets/d6a3b930-b188-43d8-a6d8-adeee8e5bde7" />
+
 
 ⭐ Feel free to explore the solutions and follow my progress!
