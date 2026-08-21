@@ -162,6 +162,8 @@ For each problem, I try to follow this process:
 
 This repository represents my **competitive programming journey** — one problem, one mistake, and one improvement at a time.
 <img width="1517" height="790" alt="image" src="https://github.com/user-attachments/assets/d6a3b930-b188-43d8-a6d8-adeee8e5bde7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abc466f0-f129-44c1-81cd-f529579793ef" />
+
 
 
 ⭐ Feel free to explore the solutions and follow my progress!
