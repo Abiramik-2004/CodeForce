@@ -24,5 +24,6 @@ public class Translation{
         else{
             System.out.println("NO");
         }
+        sc.close();
     }
 }

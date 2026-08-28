@@ -12,5 +12,6 @@ public class A_Required_Reminder{
             t--;
             
         }
+        sc.close();
     }
 }

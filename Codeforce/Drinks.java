@@ -10,5 +10,6 @@ public class Drinks {
             count+=a[i];
         }
         System.out.println((double)count/n);
+        sc.close();
     }
 }

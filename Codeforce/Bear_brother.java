@@ -11,5 +11,6 @@ public class Bear_brother {
         count++;
     }
     System.out.println(count);
+    sc.close();
    } 
 }

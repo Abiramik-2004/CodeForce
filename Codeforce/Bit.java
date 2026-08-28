@@ -21,5 +21,6 @@ public class Bit{
             }
         }
         System.out.println(X);
+        sc.close();
     }
 }

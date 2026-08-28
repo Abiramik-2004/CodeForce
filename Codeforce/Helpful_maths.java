@@ -35,5 +35,6 @@ public class Helpful_maths {
         }
 
         System.out.println(result);
+        sc.close();
     }
 }

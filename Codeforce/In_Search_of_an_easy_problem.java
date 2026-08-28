@@ -13,6 +13,7 @@ public class In_Search_of_an_easy_problem {
 
         }
         System.out.println(s);
+        sc.close();
     }
        
 }

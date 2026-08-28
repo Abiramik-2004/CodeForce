@@ -17,5 +17,6 @@ public class Wrong_Subraction {
 
         }
         System.out.println(n);
+        sc.close();
     }
 }

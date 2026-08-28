@@ -12,5 +12,6 @@ public class Beautifu_matrix {
                 }
             }
         }
+        sc.close();
     }
 }

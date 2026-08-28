@@ -7,4 +7,5 @@ public class Domino_piling {
         int place=(M*N)/2;
         System.out.println(place);
     }
+    sc.close();
 }

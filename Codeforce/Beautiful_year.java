@@ -31,5 +31,6 @@ public class Beautiful_year {
 
             y++;
         }
+        sc.close();
     }
 }

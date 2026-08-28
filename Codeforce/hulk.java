@@ -22,5 +22,6 @@ public class hulk {
         }
         s=s+"it";
         System.out.println(s);
+        sc.close();
     }
 }

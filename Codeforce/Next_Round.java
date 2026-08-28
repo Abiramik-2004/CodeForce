@@ -13,5 +13,6 @@ public class Next_Round {
             }
         }
         System.out.println(count);
+        sc.close();
     }
 }

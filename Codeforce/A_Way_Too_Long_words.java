@@ -15,5 +15,6 @@ public class A_Way_Too_Long_words{
             }
             n--;
         }
+        sc.close();
     }
 }

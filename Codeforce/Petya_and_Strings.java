@@ -16,6 +16,8 @@ public  class Petya_and_Strings{
             else {
                 System.out.println("0");
             }
-            }
+        }
+        sc.close();
+
     }
 }

@@ -10,5 +10,6 @@ public class Calculation_function {
         } else {
             System.out.println(-(n + 1) / 2);
         }
+        sc.close();
     }
 }

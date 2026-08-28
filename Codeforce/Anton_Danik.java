@@ -20,6 +20,7 @@ public class Anton_Danik {
         else{
             System.out.println("Friendship");
         }
+        sc.close();
     }
 
     

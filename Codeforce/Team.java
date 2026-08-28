@@ -17,5 +17,6 @@ public class Team {
             }
         }
         System.out.println(prob);
+        sc.close();
     }
 }

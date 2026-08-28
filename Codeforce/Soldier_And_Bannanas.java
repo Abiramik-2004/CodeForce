@@ -15,6 +15,7 @@ public class Soldier_And_Bannanas {
         else{
             System.out.println(0);
         }
+        sc.close();
     }
 
 }

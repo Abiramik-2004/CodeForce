@@ -27,5 +27,6 @@ public class Elephant{
             }
         }
         System.out.println(count);
+        sc.close();
     }
 }
