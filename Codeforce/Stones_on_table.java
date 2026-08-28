@@ -7,7 +7,7 @@ public class Stones_on_table {
         int count=0;
         char p=s.charAt(0);
         for(int i=1;i<n;i++){
-            char c=s.charAt(n));
+            char c=s.charAt(n);
             if(c==p){
                 count++;
             }

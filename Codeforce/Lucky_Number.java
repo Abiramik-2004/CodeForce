@@ -5,7 +5,6 @@ public class Lucky_Number {
         int n=sc.nextInt();
         int count=0,c=n,p=0;
         while(c>0){
-            int q=n%10;
             p++;
             c=c/10;
             

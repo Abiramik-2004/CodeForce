@@ -6,6 +6,7 @@ public class Domino_piling {
         int N=sc.nextInt();
         int place=(M*N)/2;
         System.out.println(place);
+        sc.close();
     }
-    sc.close();
+   
 }
