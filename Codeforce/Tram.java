@@ -11,7 +11,7 @@ public class Tram{
         int inside = 0;
         int maxCapacity = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++){
 
             int exit = sc.nextInt();
             int enter = sc.nextInt();
