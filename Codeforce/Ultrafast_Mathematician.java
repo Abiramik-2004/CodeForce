@@ -18,5 +18,6 @@ public class Ultrafast_Mathematician{
             i--;
         }
         System.out.println(s);
+        sc.close();
     }
 }
