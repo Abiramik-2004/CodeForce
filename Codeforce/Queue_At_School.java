@@ -8,21 +8,13 @@ public class Queue_At_School {
         String s = sc.next();
 
         char[] queue = s.toCharArray();
-
-        // Repeat for t seconds
         for (int time = 0; time < t; time++) {
 
             for (int i = 0; i < n - 1; i++) {
-
-                // Boy followed by Girl
                 if (queue[i] == 'B' && queue[i + 1] == 'G') {
-
-                    // Swap
                     char temp = queue[i];
                     queue[i] = queue[i + 1];
                     queue[i + 1] = temp;
-
-                    // Skip next position
                     i++;
                 }
             }
