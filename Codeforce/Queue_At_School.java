@@ -2,16 +2,36 @@ import java.util.*;
 public class Queue_At_School {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        int n=sc.nextInt();
-        for(int i=0;i<n;i++){
-            System.out.println("Enter the Particular amount");
-            long m=sc.nextLong();
-            System.out.println("Enter the payment mode");
-            System.out.println("1. Cash on delivery\n 2. Pay on google pay\n 3. Pay on paytm\n 4. Pay Later");
-            System.out.println("Enter the option");
-            int option =sc.nextInt();
-            
+        int n = sc.nextInt();
+        int t = sc.nextInt();
+
+        String s = sc.next();
+
+        char[] queue = s.toCharArray();
+
+        // Repeat for t seconds
+        for (int time = 0; time < t; time++) {
+
+            for (int i = 0; i < n - 1; i++) {
+
+                // Boy followed by Girl
+                if (queue[i] == 'B' && queue[i + 1] == 'G') {
+
+                    // Swap
+                    char temp = queue[i];
+                    queue[i] = queue[i + 1];
+                    queue[i + 1] = temp;
+
+                    // Skip next position
+                    i++;
+                }
+            }
         }
+
+        System.out.println(new String(queue));
+
+        sc.close();
+        
 
     }
 }
