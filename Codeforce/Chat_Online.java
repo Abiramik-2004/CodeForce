@@ -40,5 +40,6 @@ public class Chat_Online {
         }
 
         System.out.println(count);
+        sc.close();
     }
 }
