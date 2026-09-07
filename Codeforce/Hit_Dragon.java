@@ -14,5 +14,6 @@ public class Hit_Dragon{
             }
         }
         System.out.println(count);
+        sc.close();
     }
 }

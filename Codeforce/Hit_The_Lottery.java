@@ -10,5 +10,6 @@ public class Hit_The_Lottery{
             n=n%bill;
         }
         System.out.println(count);
+        sc.close();
     }
 }
