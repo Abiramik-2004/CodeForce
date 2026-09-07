@@ -11,20 +11,31 @@ public class Fox_Snake {
         for (int i = 0; i < n; i++) {
 
             if (i % 2 == 0) {
+
+                // Full row
                 for (int j = 0; j < m; j++) {
                     System.out.print("#");
                 }
+
             }
             else {
+
+                // Odd row
                 if (i % 4 == 1) {
+
+                    // Snake on right
                     for (int j = 0; j < m - 1; j++) {
                         System.out.print(".");
                     }
+
                     System.out.print("#");
 
                 }
                 else {
+
+                    // Snake on left
                     System.out.print("#");
+
                     for (int j = 0; j < m - 1; j++) {
                         System.out.print(".");
                     }
