@@ -20,5 +20,6 @@ public class Sum{
                 System.out.println("NO");
             }
         }
+        sc.close();
     }
 }
