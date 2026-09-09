@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "meeting_friends",
+            "request": "launch",
+            "mainClass": "meeting_friends",
+            "projectName": "Codeforce_dcd38004"
+        },
+        {
+            "type": "java",
             "name": "Amusing_Joes",
             "request": "launch",
             "mainClass": "Amusing_Joes",
