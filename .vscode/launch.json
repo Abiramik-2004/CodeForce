@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "YES_YES",
+            "request": "launch",
+            "mainClass": "YES_YES",
+            "projectName": "Codeforce_dcd38004"
+        },
+        {
+            "type": "java",
+            "name": "Game_With_Integer",
+            "request": "launch",
+            "mainClass": "Game_With_Integer",
+            "projectName": "Codeforce_dcd38004"
+        },
+        {
+            "type": "java",
             "name": "meeting_friends",
             "request": "launch",
             "mainClass": "meeting_friends",
