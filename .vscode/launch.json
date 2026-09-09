@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Police_Recruits",
+            "request": "launch",
+            "mainClass": "Police_Recruits",
+            "projectName": "Codeforce_dcd38004"
+        },
+        {
+            "type": "java",
             "name": "YES_YES",
             "request": "launch",
             "mainClass": "YES_YES",
