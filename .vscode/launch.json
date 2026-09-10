@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Division",
+            "request": "launch",
+            "mainClass": "Division",
+            "projectName": "Codeforce_dcd38004"
+        },
+        {
+            "type": "java",
             "name": "Again_Twenty_Five",
             "request": "launch",
             "mainClass": "Again_Twenty_Five",
