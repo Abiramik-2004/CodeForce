@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sereja_and_Dima",
+            "request": "launch",
+            "mainClass": "Sereja_and_Dima",
+            "projectName": "Codeforce_dcd38004"
+        },
+        {
+            "type": "java",
             "name": "Division",
             "request": "launch",
             "mainClass": "Division",
