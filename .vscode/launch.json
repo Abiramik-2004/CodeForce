@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Restoring_Three_Num",
+            "request": "launch",
+            "mainClass": "Restoring_Three_Num",
+            "projectName": "Codeforce_dcd38004"
+        },
+        {
+            "type": "java",
             "name": "Sereja_and_Dima",
             "request": "launch",
             "mainClass": "Sereja_and_Dima",
