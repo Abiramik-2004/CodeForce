@@ -11,14 +11,16 @@ public class Marathn{
             int count=0;
             if(a<b){
                 count++;
-                if(a<c){
-                    count++;
-                    if(a<d){
-                        count++;
-
-                    }
-                }
             }
+            if(a<c){
+                count++;
+                    
+            }
+            if(a<d){
+                count++;
+                    
+            }
+
             System.out.println(count);
         }
     }
