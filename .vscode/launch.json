@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Plus_Minus",
+            "request": "launch",
+            "mainClass": "Plus_Minus",
+            "projectName": "Codeforce_dcd38004"
+        },
+        {
+            "type": "java",
             "name": "Marathn",
             "request": "launch",
             "mainClass": "Marathn",
