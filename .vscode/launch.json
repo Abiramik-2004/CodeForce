@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Marathn",
+            "request": "launch",
+            "mainClass": "Marathn",
+            "projectName": "Codeforce_dcd38004"
+        },
+        {
+            "type": "java",
             "name": "Restoring_Three_Num",
             "request": "launch",
             "mainClass": "Restoring_Three_Num",
