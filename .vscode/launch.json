@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Blank_Space",
+            "request": "launch",
+            "mainClass": "Blank_Space",
+            "projectName": "Codeforce_dcd38004"
+        },
+        {
+            "type": "java",
             "name": "A_B_Again",
             "request": "launch",
             "mainClass": "A_B_Again",
