@@ -5,7 +5,7 @@ public class Again_Twenty_Five {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();
         System.out.println(25);
-        n++;
+        System.out.println(n);
         sc.close();
     }
 }
