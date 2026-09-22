@@ -14,9 +14,11 @@ public class Blank_Space{
                 else{
                     count=0;
                 }
+                maxcount=Math.max(count, maxcount);
             }
-            maxcount=Math.max(count, maxcount);
+           
             System.out.println(maxcount);
         }
+        sc.close();
     }
 }
