@@ -13,5 +13,6 @@ public class Codeforces_Checking {
                 System.out.println("NO");
             }
         }
+        sc.close();
     }
 }
