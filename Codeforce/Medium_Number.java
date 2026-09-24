@@ -8,13 +8,13 @@ public class Medium_Number {
             int b=sc.nextInt();
             int c=sc.nextInt();
             if(a<b && b<c){
-                System.err.println(b);
+                System.out.println(b);
             }
             else if(b<a && a<c){
-                System.err.println(a);
+                System.out.println(a);
             }
             else if(b<c && a>c){
-                System.err.println(c);
+                System.out.println(c);
             }
         }
     }
