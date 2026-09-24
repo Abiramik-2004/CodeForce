@@ -7,8 +7,15 @@ public class Medium_Number {
             int a=sc.nextInt();
             int b=sc.nextInt();
             int c=sc.nextInt();
-            int res=(a>b)?((a>c)?a:c):(b>c)?b:c;
-            System.out.println(res);
+            if(a<b && b<c){
+                System.err.println(b);
+            }
+            else if(b<a && a<c){
+                System.err.println(a);
+            }
+            else if(b<c && a>c){
+                System.err.println(c);
+            }
         }
     }
     
